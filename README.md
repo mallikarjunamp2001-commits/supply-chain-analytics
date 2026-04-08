@@ -181,15 +181,10 @@ python -m streamlit run app.py
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Add screenshot after running the app)*
-
----
 
 ## 🌐 Live Demo
 
-*(Deploy using Streamlit Cloud and paste link here)*
+https://supply-chain-analytics-f7h8uasph7b2zkikh8b9mp.streamlit.app/
 
 ---
 
@@ -240,5 +235,4 @@ This project is licensed under the MIT License.
 
 If you found this project useful, please ⭐ star the repository!
 
-## 🌐 Live Demo
-https://supply-chain-analytics-f7h8uasph7b2zkikh8b9mp.streamlit.app/
+
