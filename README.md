@@ -226,7 +226,7 @@ This dashboard enables organizations to:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mallikarjuna M P**
 
 ---
 
@@ -239,3 +239,6 @@ This project is licensed under the MIT License.
 ## ⭐ Support
 
 If you found this project useful, please ⭐ star the repository!
+
+## 🌐 Live Demo
+https://supply-chain-analytics-f7h8uasph7b2zkikh8b9mp.streamlit.app/
